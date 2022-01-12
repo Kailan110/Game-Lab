@@ -1,0 +1,29 @@
+body
+{
+    text-align: center;
+   
+}
+.container{
+  background-color: darkcyan;  
+}
+#app {
+    background-color: floralwhite;
+}
+
+#myCarousel
+{
+    background-color: darkred;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : antiquewhite;
+    font-size: 20px;
+}
